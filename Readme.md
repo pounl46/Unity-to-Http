@@ -11,6 +11,7 @@ then add that in __"ur url"__
 last Go to Button Inspector and find On Click() in Button Componnent
 and add Function FireText to On Click()
 and done! just Enjoy!
+____________________________________________________________________________________________
 
 cs파일을 아무곳이나 넣으신 후
 
