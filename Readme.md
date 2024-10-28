@@ -1,4 +1,4 @@
-#[English]
+# [English]
 Import cs in anything
 and create
 
@@ -14,7 +14,7 @@ and add Function FireText to On Click()
 and done! just Enjoy!
 ____________________________________________________________________________________________
 
-#[한국어]
+# [한국어]
 cs파일을 아무곳이나 넣으신 후
 
 **Button(Create -> Ui -> Button - TextMeshPro),**
